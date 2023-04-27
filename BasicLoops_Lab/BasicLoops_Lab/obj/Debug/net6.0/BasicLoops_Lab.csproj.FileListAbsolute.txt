@@ -1,0 +1,15 @@
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.csproj.AssemblyReference.cache
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\bin\Debug\net6.0\BasicLoops_Lab.exe
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\bin\Debug\net6.0\BasicLoops_Lab.deps.json
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\bin\Debug\net6.0\BasicLoops_Lab.runtimeconfig.json
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\bin\Debug\net6.0\BasicLoops_Lab.dll
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\bin\Debug\net6.0\BasicLoops_Lab.pdb
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.dll
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\refint\BasicLoops_Lab.dll
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.pdb
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\BasicLoops_Lab.genruntimeconfig.cache
+C:\Users\Adriana\source\repos\BasicLoops_Lab\BasicLoops_Lab\obj\Debug\net6.0\ref\BasicLoops_Lab.dll
